@@ -1,0 +1,4 @@
+Especificacao do Sistema
+* nunca comite na master!!! *
+
+* Crie sua branch e seja feliz *
